@@ -11,4 +11,3 @@ public class BlokusDuoApplication {
 	}
 
 }
-bre
