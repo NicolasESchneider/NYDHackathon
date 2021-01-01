@@ -1,13 +1,13 @@
-package blokus.backend;
+package com.nickdani.blokusduo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendApplication {
+public class BlokusDuoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BackendApplication.class, args);
+		SpringApplication.run(BlokusDuoApplication.class, args);
 	}
 
 }

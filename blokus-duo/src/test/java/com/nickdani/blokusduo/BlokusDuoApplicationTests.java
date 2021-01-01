@@ -1,10 +1,10 @@
-package blokus.backend;
+package com.nickdani.blokusduo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class BlokusDuoApplicationTests {
 
 	@Test
 	void contextLoads() {
