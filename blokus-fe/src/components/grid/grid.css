@@ -1,0 +1,17 @@
+.grid {
+  border: 3px solid black;
+  background-color: azure;
+  list-style: none;
+}
+.gridsquare {
+  border: .5px solid black;
+  box-sizing: border-box;
+  height: 30px;
+  width: 30px;
+  color: black;
+  font-size: 8px;
+}
+
+.grid-row {
+  display: flex;
+}
